@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C0512F2E-CA53-0BA5-6968-56514CBA17EE}") = "Unity2dTest", "Assembly-CSharp-firstpass.csproj", "{A2F285B1-524A-FD13-96C1-463FF5A047BB}"
+EndProject
+Project("{C0512F2E-CA53-0BA5-6968-56514CBA17EE}") = "Unity2dTest", "Assembly-CSharp-Editor.csproj", "{0E6F2795-6C1D-FC2B-A7DD-4099E466A9DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2F285B1-524A-FD13-96C1-463FF5A047BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F285B1-524A-FD13-96C1-463FF5A047BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F285B1-524A-FD13-96C1-463FF5A047BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F285B1-524A-FD13-96C1-463FF5A047BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E6F2795-6C1D-FC2B-A7DD-4099E466A9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6F2795-6C1D-FC2B-A7DD-4099E466A9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6F2795-6C1D-FC2B-A7DD-4099E466A9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6F2795-6C1D-FC2B-A7DD-4099E466A9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
